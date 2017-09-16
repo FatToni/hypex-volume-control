@@ -8,3 +8,5 @@ With this tool you can use the Hypex internal volume control over usb.
 A connected IR sensor to the raspberry allowes me to use any remote control device for example this from my panasonic tv.
 
 Have fun
+
+The hidapi-0.7.0 lib is necessary to get it running.
